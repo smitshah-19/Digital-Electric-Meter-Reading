@@ -4,6 +4,8 @@ import easyocr
 from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
+import re #it is a library called regular expression that is used to find/match a string
+from sty import fg, ef, rs, Style, RgbFg,bg, RgbBg #used for coloring the font
 
 img = cv2.imread("meter.jpg")
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -66,9 +68,6 @@ def desired_output(result):
     for element in digits: #this will remove the unnecessary elements from the digits list
         digits.remove("")
     return digits
-
-import re #it is a library called regular expression that is used to find/match a string
-from sty import fg, ef, rs, Style, RgbFg,bg, RgbBg #used for coloring the font
 
 ef_dir=dir(ef)
 fg_dir=dir(fg)
