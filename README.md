@@ -22,4 +22,14 @@ Optical character recognition (OCR) refers to the use of technological methods i
 
 **8. Output:** The final output of the OCR process is machine-readable text that can be further processed, indexed, searched, or manipulated using various software applications.
 
-Here is an example how the meter readings from the image is extracted using OCR. 
+Here is an example how the meter readings from the image is extracted using OCR . 
+
+<p align="center"> <a href="http://www.youtube.com/watch?app=desktop&v=y29DY0QJWc8&ab_channel=konsysinternational"> <picture> <source media="(prefers-color-scheme: dark)"> <img src="https://github.com/smitshah-19/digital-electricmeter-reading/assets/83163477/312c64ea-9bb8-4189-af36-958f8bfd51e8" width = "400" height = "250"/> </picture> </a>
+
+<p align="center"> (source: www.youtube.com/watch?app=desktop&v=y29DY0QJWc8&ab_channel=konsysinternational)
+
+**Result:**
+
+<p align="center"> <picture> <source media = "(prefers-color-scheme: dark)"> <img src="https://github.com/smitshah-19/smitshah-19/assets/83163477/efe66b3f-12e8-4777-bacb-20f68fa4f683" width = "400" height = "250" /> </picture>
+
+I hope that you found this project interesting! Feel free to download the code and play around with it.
