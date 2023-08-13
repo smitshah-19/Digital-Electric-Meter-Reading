@@ -26,7 +26,7 @@ Here is an example how the meter readings from the image is extracted using OCR 
 
 <p align="center"> <a href="http://www.youtube.com/watch?app=desktop&v=y29DY0QJWc8&ab_channel=konsysinternational"> <picture> <source media="(prefers-color-scheme: dark)"> <img src="https://github.com/smitshah-19/digital-electricmeter-reading/assets/83163477/312c64ea-9bb8-4189-af36-958f8bfd51e8" width = "400" height = "250"/> </picture> </a>
 
-<p align="center"> (source: www.youtube.com/watch?app=desktop&v=y29DY0QJWc8&ab_channel=konsysinternational)
+##### <p align="center"> (source: www.youtube.com/watch?app=desktop&v=y29DY0QJWc8&ab_channel=konsysinternational)
 
 **Result:**
 
